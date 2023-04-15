@@ -1,5 +1,5 @@
 <h1 align="center">AzuriomRestorer</h1>
-
+This is a bungeecord version of [AzuriomRestorer](https://github.com/MoiLaVie/AzuriomRestorer) by [Alouchi200](https://github.com/MoiLaVie)
 ## **Docs :**
 
 En Français :
