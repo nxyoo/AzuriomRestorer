@@ -1,5 +1,5 @@
 <p align="center">
-  ![logo](https://azuriom.com/assets/img/logo.png | width=30%)
+  <img src="https://azuriom.com/assets/img/logo.png" style="width: 20%">
 </p>
 <h1 align="center">AzuriomRestorer</h1>
 
