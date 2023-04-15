@@ -1,4 +1,4 @@
-<img align="center" src="https://azuriom.com/assets/img/logo.png" style="height: 50%">
+<img align="center" style="height: 20%" src="https://azuriom.com/assets/img/logo.png">
 <h1 align="center">AzuriomRestorer</h1>
 
 ## ✨Information
