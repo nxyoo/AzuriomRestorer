@@ -1,0 +1,4 @@
+name: AzuriomRestorer
+main: org.nxyo.azuriomrestorer.Main
+version: 1.0
+author: nxyo
